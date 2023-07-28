@@ -1,0 +1,6 @@
+target/
+.binpath
+.vscode
+.DS_Store
+.log
+*.meta.txt
